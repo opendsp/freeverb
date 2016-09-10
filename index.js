@@ -7,9 +7,8 @@
  * @license mit
  */
 
-import CombFilter from 'opendsp/combfilter';
-import Allpass from 'opendsp/allpass';
-import debug from 'debug';
+import CombFilter from 'combfilter';
+import Allpass from 'allpass';
 
 export default Reverb;
 
